@@ -36,3 +36,40 @@
 
 - Click on the Apply and save buttons
 
+## Create a job in Jenkins
+
+- We have created a new Maven project “AllureReportWithSelenium_Demo” with the configuration to run the Selenium with TestNG Tests and also to generate Allure Report after execution using Jenkins.
+
+![image](https://github.com/Mamun104/integration_allure_report_with_jenkins/assets/78067017/10f634d4-df4e-4bb1-b691-7aa521f0227d)
+
+## Execute the tests
+
+- Let’s execute it now by clicking on the “Build Now” button. 
+
+![image](https://github.com/Mamun104/integration_allure_report_with_jenkins/assets/78067017/76e9af4c-ea11-4706-9503-746704111102)
+
+
+- Right-click on Build Number (here in my case it is #1).
+
+![image](https://github.com/Mamun104/integration_allure_report_with_jenkins/assets/78067017/ff3c4454-b063-46f4-bda2-b6f6b33afb3e)
+
+- Click on Console Output to see the result.
+
+![image](https://github.com/Mamun104/integration_allure_report_with_jenkins/assets/78067017/c07078dd-7cbe-4d44-a4b5-48610e50b46d)
+
+
+## View the Allure Report
+
+- Once the execution is completed, we could see a link to view the ‘Allure Report’.
+
+![image](https://github.com/Mamun104/integration_allure_report_with_jenkins/assets/78067017/5d421970-0aeb-4457-9450-3899298f3ec2)
+
+- Click on the Allure Report. It displays the summary of the tests.
+
+## Output
+
+![image](https://github.com/Mamun104/integration_allure_report_with_jenkins/assets/78067017/6e9e98c9-dc91-4b69-ab41-1a6275cee83f)
+
+
+
+
